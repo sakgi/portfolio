@@ -7,7 +7,13 @@ body {
   background-color: rgb(11, 26, 51);
   color: white;
 }
+.left nav_items{
+  background-color:rgb(40, 47, 97) ;
+}
 
+.left{
+  background-color: aliceblue;
+}
 a {
   text-decoration: none;
   color: white;

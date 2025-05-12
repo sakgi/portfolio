@@ -1,35 +1,35 @@
 [
   {
     "title": "Java",
-    "imageSrc": "skills/java.png"
+    "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/Java.png"
   },
    {
       "title": "React",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/react.png"
     },
     {
       "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/css.png"
     },
     {
       "title": "Mysql",
-      "imageSrc": "skills/Mysql.png"
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/Mysql.png"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "skills/javascript.png"
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/javascript.png"
     },
      {
       "title": "REST API",
-      "imageSrc": "skills/Rest_api.png"
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/Rest_api.png"
     },
      {
       "title": "Firebase",
-      "imageSrc": "skills/firebase.png"
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/firebase.png"
     }
     
   ]

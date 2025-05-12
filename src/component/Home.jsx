@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/resume.pdf";
+// import pdf from "../pdf/resume.pdf";
 import hero from "./data/hero.json";
 import Typed from "typed.js";
 
@@ -32,8 +32,8 @@ const Home = () => {
           <h1 ref={typedRef}></h1>
 
           <a
-            href={pdf}
-            download="Sakshi_resume.pdf"
+            href={'/Sakshi_resume (9).pdf'}
+            download="Sakshi_resume .pdf"
             className="btn btn-outline-warning my-3"
           >
             Download Resume
@@ -41,7 +41,7 @@ const Home = () => {
         </div>
         <div className="right">
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
-           <img src="/assets/hero/OFFICIALIMAGE.avif" alt="hero" />
+           <img src="https://sakgi.github.io/portfolio/assets/hero/OFFICIALIMAGE.avif" alt="hero" />
           </div>
         </div>
       </div>
@@ -49,4 +49,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Home;  

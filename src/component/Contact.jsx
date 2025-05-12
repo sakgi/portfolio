@@ -21,12 +21,15 @@ const Contact = () => {
           <a href="https://github.com/sakgi" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
-          <a
+         <a
   href="mailto:srajurkar614@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
   className="items"
 >
   <SiGmail className="icons" />
 </a>
+
 
         </div>
       </div>
