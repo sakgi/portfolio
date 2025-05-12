@@ -1,0 +1,26 @@
+[
+    {
+      "key": 1,
+      "title": "Drive Test Audit Tool ",
+      "description":"Built a web-based Drive Test Audit Tool using HTML, CSS, Python, and Firestore with automated data validation and analysis to streamline field operations and ensure test accuracy",
+       "imageSrc": "https://sakgi.github.io/portfolio/assets/projects/tower.jpg",
+      "source": "https://github.com/ITInstaICTSolution/Drive-Test-Audit-Tool"
+    },
+    {
+      "key": 2,
+      "title": "Ticket raising Tool",
+      "description":"Developed a full-stack Ticket Raising Tool using React.js, Node.js, REST APIs, and Firebase to enable real-time issue tracking, authentication, and status updates for company devices.",
+       "imageSrc": "https://sakgi.github.io/portfolio/assets/projects/Login.png",
+      "source": "https://github.com/Insta-ICT-Solutions/ticket-raising-tool"
+    },
+    {
+      "key": 3,
+      "title": "Disease detection in poultry farming ",
+      "description":"Developed a YOLOv8-CNN system for real-time chicken disease detection using visual data and labeled datasets and color-coded bounding box visualization..",
+       "imageSrc": "https://sakgi.github.io/portfolio/assets/projects/chicken.jpeg",
+      "source": "https://github.com/ITInstaICTSolution/AI-ML-Poultry-Farming/tree/sakshi"
+    }
+
+
+    
+  ]

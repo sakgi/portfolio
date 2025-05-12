@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/Java.png"
+  },
+   {
+      "title": "React",
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/react.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/css.png"
+    },
+    {
+      "title": "Mysql",
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/Mysql.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/javascript.png"
+    },
+     {
+      "title": "REST API",
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/Rest_api.png"
+    },
+     {
+      "title": "Firebase",
+      "imageSrc": "https://sakgi.github.io/portfolio/assets/skills/firebase.png"
+    }
+    
+  ]
