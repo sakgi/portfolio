@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "role": "Trainee Software Engineer",
+      "organisation": "Insta-ICT solutions Pvt, Ltd ",
+      "startDate": "Jan 2024 -",
+      "endDate": "May 2025",
+      "location": "Pune ,India",
+      "experiences": [
+        "Developed and deployed full-stack web applications using React.js, REST API`s using Node.js, Firebase, and Deep Learning, delivering five live projects with seamless frontend-backend integration and enhanced user experience"
+        
+      ],
+      "imageSrc": "company/globalit.png"
+    }
+]
+    

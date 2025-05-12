@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+   {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Mysql",
+      "imageSrc": "skills/Mysql.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+     {
+      "title": "REST API",
+      "imageSrc": "skills/Rest_api.png"
+    },
+     {
+      "title": "Firebase",
+      "imageSrc": "skills/firebase.png"
+    }
+    
+  ]
